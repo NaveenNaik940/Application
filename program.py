@@ -10,7 +10,6 @@ number=int(input("Enter the number to check happy number:"))
 x=number
 if number==1:
     print(f"Number {number}is happy number")
-
 else:
     list=[]
     while number!=1:
